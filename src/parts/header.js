@@ -1,13 +1,13 @@
-import React from 'react'
+import React from 'react';
 import Fade from "react-reveal/Fade";
-import Button from 'elements/Button'
-import BrandIcon from 'parts/IconText'
+import Button from 'elements/Button';
+import BrandIcon from 'parts/IconText';
 
 export default function Header(props) {
 
-    const getNavLinkClass = path => {
-        return props.location.pathname === path ? "active" : ""
-    }
+    const getNavLinkClass = (path) => {
+        return props.location.pathname === path ? " active" : "";
+    };
     if (props.isCentered)
     return (
       <Fade>
@@ -15,7 +15,7 @@ export default function Header(props) {
           <div className="container">
             <nav className="navbar navbar-expand-lg navbar-light">
               <Button className="brand-text-icon mx-auto" href="" type="link">
-                Stay<span className="text-gray-900">cation.</span>
+                Car<span className="text-gray-900">Rent.</span>
               </Button>
             </nav>
           </div>

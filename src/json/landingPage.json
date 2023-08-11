@@ -1,0 +1,179 @@
+{
+  "hero": {
+    "rent": 229,
+    "car": 30,
+    "cities": 20
+  },
+  "mostPicked": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "MPV",
+      "type": "Car",
+      "imageUrl": "/images/img-1.jpg",
+      "country": "Indonesia",
+      "city": "Batam",
+      "price": " 400.000 ",
+      "unit": "day"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "MPV",
+      "type": "Car",
+      "imageUrl": "/images/img-2.jpg",
+      "country": "Indonesia",
+      "city": "Batam",
+      "price": " 400.000 ",
+      "unit": "day"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "SUV",
+      "type": "Car",
+      "imageUrl": "/images/img-3.jpg",
+      "country": "Indonesia",
+      "city": "Batam",
+      "price": " 400.000 ",
+      "unit": "day"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "SUV",
+      "type": "Car",
+      "imageUrl": "/images/img-4.jpg",
+      "country": "Indonesia",
+      "city": "Batam",
+      "price": " 400.000 ",
+      "unit": "day"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Minibus",
+      "type": "Minibus",
+      "imageUrl": "/images/img-5.jpg",
+      "country": "Indonesia",
+      "city": "Batam",
+      "price": " 400.000 ",
+      "unit": "day"
+    }
+  ],
+  "categories1": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "SUV",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Daihatsu Terios",
+          "imageUrl": "/images/suv-1.jpg",
+          "country": "Indonesia",
+          "city": "Bintan",
+          "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Wuling Almaz",
+          "imageUrl": "/images/suv-2.jpg",
+          "country": "Indonesia",
+          "city": "Batam",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Honda HRV",
+          "imageUrl": "/images/suv-3.jpg",
+          "country": "Indonesia",
+          "city": "Tanjung Pinang",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Toyota Rush",
+          "imageUrl": "/images/suv-4.jpg",
+          "country": "Indonesia",
+          "city": "Bintan",
+          "isPopular": false
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "MPV",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Honda Mobilio",
+          "imageUrl": "/images/mpv-1.jpg",
+          "country": "Indonesia",
+          "city": "Bintan",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Nisan Livina",
+          "imageUrl": "/images/mpv-2.jpg",
+          "country": "Indonesia",
+          "city": "Tanjung Pinang",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Mitshubishi Xpander",
+          "imageUrl": "/images/mpv-3.jpg",
+          "country": "Indonesia",
+          "city": "Batam",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Toyota Avanza",
+          "imageUrl": "/images/mpv-4.jpg",
+          "country": "Indonesia",
+          "city": "Batam",
+          "isPopular": true
+        }
+      ]
+    }
+  ],
+
+    "categories2": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Minibus",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Hyundai H1",
+          "imageUrl": "/images/minibus-1.jpg",
+          "country": "Indonesia",
+          "city": "Tanjung Pinang",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Toyota Alpard",
+          "imageUrl": "/images/minibus-2.jpg",
+          "country": "Indonesia",
+          "city": "Bintan",
+          "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Suzuki APV",
+          "imageUrl": "/images/minibus-3.jpg",
+          "country": "Indonesia",
+          "city": "Batam",
+          "isPopular": false
+        }
+      ]
+    }
+  ],
+  "testimonial": {
+    "_id": "asd1293uasdads1",
+    "imageUrl": "/images/testi.jpg",
+    "name": "New Member",
+    "rate": 4.55,
+    "content": "Kendaraannya nyaman dan lancar di gunakan, enak di pakai pergi jauh",
+    "familyName": "Ahmad Hafizh",
+    "familyOccupation": "Kang Rusuh"
+  }
+}

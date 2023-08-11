@@ -1,0 +1,127 @@
+{
+  "_id": "asd1293uasdads1",
+  "name": "MPV Car",
+  "type": "Hotel",
+  "imageUrls": [
+    {
+      "_id": "asd1293uasdads1",
+      "url": "/images/detail-1.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "url": "/images/detail-2.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "url": "/images/detail-3.jpg"
+    }
+  ],
+  "country": "Indonesia",
+  "city": "Batam",
+  "price": "300000",
+  "unit": "day",
+  "isPopular": true,
+  "hasBackyard": true,
+  "description": "<p>Daihatsu Terios tersedia dalam pilihan mesin Bensin di Indonesia Mobil Terios tersedia dalam varian 14 Crossover dan 4 SUV. Bicara soal spesifikasi mesin Daihatsu Terios, ini ditenagai dua pilihan mesin Bensin berkapasitas 1496 cc. Terios tersedia dengan transmisi Manual and Otomatis tergantung variannya. Terios adalah 14 Crossover dan 4 SUV 7 seater dengan panjang 4435 mm, lebar 1695 mm, wheelbase 2685 mm. serta ground clearance 220 mm.</p> <p>NEW TERIOS EXTERIOR</p> <p>Dilengkapi dengan NEW smoke headlamp, NEW front grille ornament chrome, NEW LED illumination lamp dan berbagai fitur baru lainnya, Terios makin atraktif dan stylish untuk semua petualangan.</p>",
+  "features": [
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "Bensin",
+      "name": "Bahan Bakar",
+      "imageUrl": "/images/icon/ic_bensin.svg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "45 L",
+      "name": "Kapasitas Tangki",
+      "imageUrl": "/images/icon/ic_fuel.svg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "1496 CC",
+      "name": "Mesin",
+      "imageUrl": "/images/icon/ic_mesin.svg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "Otomatis",
+      "name": "Transmisi",
+      "imageUrl": "/images/icon/ic_trans.svg"
+    }
+  ],
+  "activities": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Kebun Park",
+      "type": "Nature",
+      "imageUrl": "/images/categoryItem1.png"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Water land",
+      "type": "Pool",
+      "imageUrl": "/images/categoryItem2.png"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Kebun Park",
+      "type": "Nature",
+      "imageUrl": "/images/categoryItem3.png"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Water land",
+      "type": "Pool",
+      "imageUrl": "/images/categoryItem4.png"
+    }
+  ],
+  "categories": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "House with beauty backyard",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "PSW Antasari",
+          "imageUrl": "/images/treasure-1.jpg",
+          "country": "South Korea",
+          "city": "Seoul Flore",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Kuretakeso",
+          "imageUrl": "/images/treasure-2.jpg",
+          "country": "South Korea",
+          "city": "Seoul Flore",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Arya Duta",
+          "imageUrl": "/images/treasure-3.jpg",
+          "country": "South Korea",
+          "city": "Seoul Flore",
+          "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Grand Dhika",
+          "imageUrl": "/images/treasure-4.jpg",
+          "country": "South Korea",
+          "city": "Seoul Flore",
+          "isPopular": false
+        }
+      ]
+    }
+  ],
+  "testimonial": {
+    "_id": "asd1293uasdads1",
+    "imageUrl": "/images/testi.jpg",
+    "name": "New Member",
+    "rate": 4.55,
+    "content": "Kendaraannya nyaman dan lancar di gunakan, enak di pakai pergi jauh",
+    "familyName": "Ahmad Hafizh",
+    "familyOccupation": "Kang Rusuh"
+  }
+}
